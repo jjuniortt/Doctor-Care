@@ -11,7 +11,7 @@ Para a conclusão da aratona, criamos um Criamos um modelo de SPA para área de 
   <a href="https://www.buymeacoffee.com/kakacordovil" target="_blank"><img src="https://user-images.githubusercontent.com/25811685/177081101-36847f26-eb9f-4b5b-9b9c-02fb97e1df0f.png" alt="Buy Me A Coffee" height="500px" width="300px" ></a>
 </p>
 
-Veja abaixo as habilidades necessárias para montar essa aplicação: </br></br>
+Veja abaixo as habilidades necessárias para montar essa aplicação e disponibilizar no GitHub: </br></br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 
 ## Vamos codar! 🚀
