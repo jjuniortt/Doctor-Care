@@ -3,7 +3,7 @@
 <strong>Plataforma de Estudos:</strong> "https://www.rocketseat.com.br/"<br>
 <strong>Maratona Explorer:</strong> Modelo de SPA para área de saúde.
 
-O principal objetivo desse projeto é trabalhar na montagem de um layout simples, porém contendo as principais habilidades para quem está começando a trabalhar na área da programação, montando os primeiros códigos e os primeiros projetos.
+O principal objetivo desse trabalho é montar projeto simples, porém contendo as principais habilidades para quem está começando a trabalhar na área da programação, montando os primeiros códigos e os primeiros projetos.
 
 Para a conclusão da aratona, criamos um Criamos um modelo de SPA para área de saúde a partir das três tecnologias que fazem parte da base de qualquer aplicação web - <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>GitHub</strong>.
 
